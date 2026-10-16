@@ -8,6 +8,7 @@ Pe parcursul semestrului lucrezi pe această aplicație: **NestJS + React + Post
 
 | Lab | Tema | Fișa |
 |---|---|---|
+| 0 | Pregătirea spațiului de lucru (Linux sau Windows) | [laboratoare/lab0-pregatire](laboratoare/lab0-pregatire/README.md) |
 | 1 | Pornește aplicația și găsește riscurile | [laboratoare/lab1-docker](laboratoare/lab1-docker/README.md) |
 | 2 | SQL Injection și XSS | [laboratoare/lab2-injectii](laboratoare/lab2-injectii/README.md) |
 | 3 | Securizează login-ul și accesul la date | [laboratoare/lab3-autentificare](laboratoare/lab3-autentificare/README.md) |

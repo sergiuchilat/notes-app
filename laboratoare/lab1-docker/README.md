@@ -23,7 +23,9 @@
 
 ## Pasul 0 – Verifică uneltele (5 min)
 
-Rulează în terminal. Fiecare comandă trebuie să afișeze o versiune:
+Înainte de laborator trebuie să-ți fi pregătit spațiul de lucru după ghidul [Pregătirea spațiului de lucru](../lab0-pregatire/README.md) (Linux sau Windows).
+
+Rulează în terminal (pe Windows, în fereastra **Ubuntu**). Fiecare comandă trebuie să afișeze o versiune:
 
 ```bash
 docker --version
