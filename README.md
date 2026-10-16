@@ -18,9 +18,9 @@ Fiecare fișă are la final tabelul cu **variantele individuale**.
 
 ## Prezentări
 
-| Ora | Tema | Fișier |
-|---|---|---|
-| 1 | Introducere în securitatea web și a serverelor | [Lesson01_Introduction_to_Security.pptx](prezentari/Lesson01_Introduction_to_Security.pptx) |
+| Ora | Tema | Vizualizare în browser | Descărcare |
+|---|---|---|---|
+| 1 | Introducere în securitatea web și a serverelor | [PDF](prezentari/Lesson01_Introduction_to_Security.pdf) | [PowerPoint](https://github.com/sergiuchilat/notes-app/raw/main/prezentari/Lesson01_Introduction_to_Security.pptx) |
 
 ## Pornire rapidă
 
