@@ -16,6 +16,12 @@ Pe parcursul semestrului lucrezi pe această aplicație: **NestJS + React + Post
 
 Fiecare fișă are la final tabelul cu **variantele individuale**.
 
+## Prezentări
+
+| Ora | Tema | Fișier |
+|---|---|---|
+| 1 | Introducere în securitatea web și a serverelor | [Lesson01_Introduction_to_Security.pptx](prezentari/Lesson01_Introduction_to_Security.pptx) |
+
 ## Pornire rapidă
 
 ```bash
